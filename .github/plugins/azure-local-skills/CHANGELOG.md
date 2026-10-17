@@ -1,5 +1,49 @@
 # Changelog
 
+## 1.0.18
+
+- feature: support per plugin hook ([#3370](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3370))
+
+## 1.0.17
+
+- fix: enable standalone telemetry reporter by default ([#3383](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3383))
+
+## 1.0.16
+
+- feat: add Azure Advisor skills plugin ([#3310](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3310))
+
+## 1.0.15
+
+- chore: update telemetry reporter release ([#3365](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3365))
+
+## 1.0.14
+
+- feat: support musl telemetry reporter builds and releases ([#3337](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3337))
+
+## 1.0.13
+
+- fix: pin hooks to latest telemetry reporter release ([#3356](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3356))
+
+## 1.0.12
+
+- feat: add AKS operational skills sibling plugin ([#3164](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3164))
+
+## 1.0.11
+
+- fix: clarify telemetry publisher debug logs ([#3336](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3336))
+
+## 1.0.10
+
+- misc: document azure-local-skills telemetry ([#3303](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3303))
+
+## 1.0.9
+
+- feat: add standalone telemetry reporter bootstrap ([#3273](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3273))
+
+## 1.0.8
+
+- fix: run Windows telemetry hooks with PowerShell ([#3263](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3263))
+
 ## 1.0.7
 
 - fix: use session_start telemetry event ([#3245](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3245))

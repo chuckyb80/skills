@@ -1,5 +1,97 @@
 # Changelog
 
+## 1.2.95
+
+- feature: support per plugin hook ([#3370](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3370))
+
+## 1.2.94
+
+- fix: enable standalone telemetry reporter by default ([#3383](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3383))
+
+## 1.2.93
+
+- feat: add Azure Advisor skills plugin ([#3310](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3310))
+
+## 1.2.92
+
+- feature: add Managed Harness Agent development workflow ([#3256](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3256))
+
+## 1.2.91
+
+- fix: safely pass quota JSON to Python ([#3377](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3377))
+
+## 1.2.90
+
+- Adding Windows Consumption to Flex upgrade skills ([#3121](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3121))
+
+## 1.2.89
+
+- chore: update telemetry reporter release ([#3365](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3365))
+
+## 1.2.88
+
+- feat: add Functions trigger and Durable troubleshooting ([#3123](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3123))
+
+## 1.2.87
+
+- fix: handle private Python indexes in Foundry agent workflows ([#3361](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3361))
+
+## 1.2.86
+
+- feat: support musl telemetry reporter builds and releases ([#3337](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3337))
+
+## 1.2.85
+
+- fix: pin hooks to latest telemetry reporter release ([#3356](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3356))
+
+## 1.2.84
+
+- feat: refine Azure Kusto discovery guidance ([#3355](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3355))
+
+## 1.2.83
+
+- feat: add AKS operational skills sibling plugin ([#3164](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3164))
+
+## 1.2.82
+
+- fix: clarify telemetry publisher debug logs ([#3336](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3336))
+
+## 1.2.81
+
+- feat: improve Azure Diagnostics from evaluations ([#3334](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3334))
+
+## 1.2.80
+
+- fix: appinsights-instrumentation prerequisite ([#3292](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3292))
+
+## 1.2.79
+
+- fix: distro-aware SSH probe for Ubuntu 24.04 ([#3294](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3294))
+
+## 1.2.78
+
+- fix: mcp enable command ([#3290](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3290))
+
+## 1.2.77
+
+- use consistent line ending ([#3313](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3313))
+
+## 1.2.76
+
+- docs: add telemetry disclosure to azure-skills README ([#3305](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3305))
+
+## 1.2.75
+
+- feat: add standalone telemetry reporter bootstrap ([#3273](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3273))
+
+## 1.2.74
+
+- fix: azure-reliability instruction ([#3291](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3291))
+
+## 1.2.73
+
+- fix: run Windows telemetry hooks with PowerShell ([#3263](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3263))
+
 ## 1.2.72
 
 - fix: handle uv.lock samples behind private package index in Foundry hosted agent quick start ([#3264](https://github.com/microsoft/GitHub-Copilot-for-Azure/pull/3264))
